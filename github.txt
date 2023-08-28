@@ -2,7 +2,8 @@
     echo "# test-by-js-buscador" >> README.md
     git init
     git add README.md
-    git commit -m "first commit"
+    git add .
+    git commit -m "test by js buscador funcional 100%"
     git branch -M main
     git remote add origin https://github.com/FernandoMGan/test-by-js-buscador.git
     git push -u origin main
